@@ -1,9 +1,9 @@
 # LIVENT
 **LIVENT (Live & Event)** - sebuah progressive web app yang menghadirkan referensi berbagai kegiatan yang dapat diikuti sesuai dengan interest user. Dilengkapi dengan informasi hingga artikel dokumentasi kegiatan yang telah berhasil terlaksana.
 
-You can visit our developmet project here: <br>
+You can visit our development project here: <br>
 <a href="https://mini-project-f-frontend.herokuapp.com/">Livent</a> <br>
-Note: It's still under development project
+Note: It's not a final release web, it's still under deveopment progress
 
 # Development Guidelines (In Progress)
 
