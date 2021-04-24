@@ -31,23 +31,15 @@ npm run dev
 
 ## 2. Project Structure
 ---
-```bash
-├── config
-|   ├── config.js
-├── controllers
-|   ├── feature-nameController.js
-├── middlewares
-|   ├── middleware-name.js
-├── migrations
-├── models
-|   ├── model-name.js
-├── routes
-|   ├── route-nameRoute.js
-├── views
-|   ├── view-name.ejs
-├── .env
-├── index.js
-├── package.json
+```app
+├── manifests
+|   ├── AndroidManifest.xml
+├── java
+|   ├── com.krisnachy.livent
+|   |   ├── MainActivity
+├── res
+|   ├── layout
+|   |   ├── activity_main.xml
 ```
 
 ## 3. API Specification
