@@ -29,7 +29,7 @@ sequelize db:seed:all
 npm run dev
 ```
 
-## 2. Project Structure
+## 2. Project Structure (Android)
 ---
 ```app
 ├── manifests
